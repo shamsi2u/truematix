@@ -1,0 +1,24 @@
+# TrueMatix — https://www.truematix.com/
+
+User-agent: *
+Allow: /
+
+# AI search crawlers (answer retrieval — distinct from model training)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Model-training crawlers — set per owner decision.
+# Currently permitted; change Allow to Disallow to opt out.
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://www.truematix.com/sitemap.xml

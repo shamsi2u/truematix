@@ -1,0 +1,51 @@
+# TrueMatix
+
+> TrueMatix provides two things: a product-authentication platform and a
+> managed online brand protection service.
+>
+> The platform gives each physical product a unique cryptographically signed QR
+> identity, lets customers verify it on a verification page branded as the
+> brand's own, and analyses scan patterns to surface suspected counterfeiting
+> and grey-market diversion.
+
+Market: consumer brands, primarily GCC. Sectors described on the site:
+cosmetics, supplements, electronics, apparel, luxury goods.
+
+## Pages
+- [Homepage](https://www.truematix.com/): product overview, how it works, AI
+  detection capabilities, dashboard, demo request.
+- [Online brand protection](https://www.truematix.com/online-brand-protection/):
+  additional service, separate from the platform — marketplace, social and
+  lookalike-domain monitoring, analyst triage, authorised platform reporting.
+
+## What the product does
+- Issues one signed, unique code per item; codes are assigned to batches,
+  markets and distributors at shipment.
+- Verification pages are white-labelled to the brand.
+- Scan analysis flags duplicate serials, geographically implausible scan
+  sequences, and volume spikes.
+- Out-of-market scan clusters are traced back to the batch and distributor
+  assignment they originated from.
+- Alerts are delivered when flags are raised.
+
+## Online brand protection — managed service
+One of two offerings from TrueMatix. It is NOT a feature of the authentication
+software and does not appear in the verification dashboard; findings are
+delivered as reports. Scoped and priced separately from the platform, and
+either works on its own. Monitoring, evidence capture and recurrence tracking
+run in a separate AI monitoring program, distinct from the scan-analysis AI;
+triage, authorised platform reporting and case
+follow-up are performed by analysts. Channel coverage is agreed per engagement
+and is not universal. Reports are filed as the brand's authorised agent, on the
+brand's approval, through each platform's own rights-holder process. Removal
+decisions rest with the platform; takedowns are not guaranteed.
+
+## Limitations stated by the vendor
+- A printed QR code can be photographed and reproduced. The system detects
+  duplicate use of a serial; it does not prevent copying.
+- An out-of-market scan cluster indicates where product surfaced. It is an
+  investigative lead, not proof of liability.
+- Detection depends on customers scanning. Unscanned product is unobserved.
+
+## Contact
+- Demo requests: hello@truematix.com
